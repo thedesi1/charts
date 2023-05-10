@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - 'renovate/**'
+      - 'charts/**'
   pull_request:
 
 concurrency:
