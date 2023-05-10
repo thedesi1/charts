@@ -16,10 +16,10 @@ sources:
 maintainers:
   - name: thedesi1
     email: baba@thedesi.email
-dependencies:
-  - name: common
-    repository: https://thedesi.dev
-    version: 4.5.2
+# dependencies:
+#   - name: common
+#     repository: https://thedesi.dev
+#     version: 4.5.2
 annotations:
   artifacthub.io/changes: |-
     - kind: changed
