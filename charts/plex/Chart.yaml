@@ -14,11 +14,11 @@ sources:
   - https://github.com/k8s-at-home/charts/tree/master/charts/stable/plex
   - https://github.com/k8s-at-home/container-images/
 maintainers:
-  - name: billimek
-    email: jeff@billimek.com
+  - name: thedesi1
+    email: baba@thedesi.email
 dependencies:
   - name: common
-    repository: https://library-charts.k8s-at-home.com
+    repository: https://thedesi.dev
     version: 4.5.2
 annotations:
   artifacthub.io/changes: |-
